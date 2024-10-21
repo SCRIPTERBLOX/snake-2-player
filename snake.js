@@ -1,11 +1,11 @@
 var snake;
 var snake2;
 
-var dir = "w";
-var nextDir = "w";
+var dir = "a";
+var nextDir = "a";
 
-var dir2 = "w";
-var nextDir2 = "w";
+var dir2 = "d";
+var nextDir2 = "d";
 
 var growFor = 0;
 var growFor2 = 0;
